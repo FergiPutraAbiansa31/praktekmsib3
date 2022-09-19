@@ -1,8 +1,0 @@
-Materi Terbaru pelatihan
-HTML
-CSS
-JS
-Bootstrap
-PHP
-mySQL
-Laravel
